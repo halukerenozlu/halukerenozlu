@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Computer Engineering at Dumlupinar University<br>- 🌱 I’m currently learning as software language Python, Javascript, as normal language English(B1) and French(A1).<br>- 👀 I'm interested in AI, LLM, DevOps and API.
+🔭 I’m currently Computer Engineering at Dumlupinar University<br>- 🌱 I’m currently learning as software language Python, Javascript, as normal language English(B1) and French(A1).<br>- 👀 I'm interested in AI, LLM and DevOps.
 
 
 # 💻 Tech Stack:
