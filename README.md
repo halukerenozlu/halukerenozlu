@@ -3,7 +3,7 @@
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nodejs,nextjs,postgress,vite,postman,prisma,py,qt,anaconda,arduino,cs,cpp,docker,figma,firebase,git,github,linux,notion,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nodejs,nextjs,postgres,vite,postman,prisma,py,qt,anaconda,arduino,cs,cpp,docker,figma,firebase,git,github,linux,notion,&theme=dark)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=halukerenozlu&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=halukerenozlu&theme=dark&hide_border=false)<br/>
